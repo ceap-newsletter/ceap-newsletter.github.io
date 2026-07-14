@@ -8,16 +8,4 @@ redirect_from:
   - /about.html
 ---
 <br><br>
-Hello, thanks for visiting my personal website.
-
-I am a fourth-year undergraduate student at the University of Cambridge, with a strong interest in the broad area of digital circuit design. After I graduate with an MEng in 2026, I plan to continue in academia, then eventually join the industry and build chips that make life better for as many people as possible.
-
-I am inherently an **engineer**! I love building things hands-on, and seeing them work. I like to keep things neat and tidy, from my room to my Python docstrings.
-
-## Projects
-
-I am currently working on **spiking neural network (SNN) implementation on field-programmable gate array (FPGA)** as my Master's project, supervized by [Dr Matthew Tang](https://www.eng.cam.ac.uk/profiles/wct26).
-
-I was previously working on **performance feedback and modelling for high-level synthesis (HLS)** at Cornell University, supervized by [Prof. Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/) and his excellant PhD student, [Niansong Zhang](https://www.zzzdavid.tech/).
-
-Past projects include RISC-V processor design, and an arbitrary-precision rendering accelerator for [Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) (see [CV](/cv/) for details).
+(Placeholder)
