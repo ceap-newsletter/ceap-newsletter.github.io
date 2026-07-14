@@ -15,7 +15,7 @@ redirect_from:
 
 ### The First Meeting
 
-#### Program of the first meeting
+#### [Program of the first meeting](% link '/files/CEAP Online Meeting Programme.pdf')
 
 #### Report of the first meeting
 
