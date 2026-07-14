@@ -15,7 +15,7 @@ redirect_from:
 
 ### The First Meeting
 
-#### [Program of the first meeting](% link /files/1st-online-meeting-programme.pdf %)
+#### [Program of the first meeting]({% link /files/1st-online-meeting-programme.pdf %})
 
 #### Report of the first meeting
 
