@@ -9,4 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-(Placeholder)
+## ![CEAP Introduction](/blurb/)
+
+## CEAP Meetings  
+
+## CEAP Conferences 
+
+## CEAP Reading Events
+
+## CEAP Members
