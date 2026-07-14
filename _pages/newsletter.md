@@ -17,7 +17,7 @@ redirect_from:
 
 #### [Program of the first meeting]({% link /files/1st-online-meeting-programme.pdf %})
 
-#### Report of the first meeting
+#### [Report of the first meeting]({% link /files/1st-online-meeting-report.pdf %})
 
 ## 3. CEAP Conferences 
 
