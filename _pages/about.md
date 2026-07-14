@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Henry's Homepage"
+title: "CEAP Newsletter"
 author_profile: true
 redirect_from: 
   - /about/

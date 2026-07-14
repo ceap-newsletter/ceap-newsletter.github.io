@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: <h1 style="font-family:'Times New Roman';font-weight:bold;">Curriculum Vitae Henrici</h1>
-permalink: /cv/
+title: CEAP Newsletter
+permalink: /newsletter/
 author_profile: true
 redirect_from:
-  - /resume
+  - /newsletter
 ---
 
 {% include base_path %}

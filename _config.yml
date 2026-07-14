@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiaoyang Li"
+title                    : "LI Zhimin"
 title_separator          : "|"
-name                     : &name "Xiaoyang (Henry) Li"
+name                     : &name "LI Zhimin"
 description              : &description "personal description"
 url                      : https://xli562.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "xli562/xli562.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Xiaoyang (Henry) Li"
+  name             : "LI Zhimin"
   pronouns         : # example: "she/her"  
-  bio              : "Final-year MEng student, EIE/ECE"
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  bio              : "\"Guangzhou Scholar\" Distinguished Professor of English\nPresident of Guangdong Society of Foreign Literature\nSecretary General / Executive director of CEAP\nCo-author of <it>China Being Led and Leading: A Literary and Cultural Interpretation (Palgrave MacMillan)<\it>"
+  location         : "Guangzhou"
+  employer         : "Guangzhou University"
   uri              : # "https://xli562.github.io"
-  email            : "xl562@cam.ac.uk" 
+  email            : "washingtonlzm@sina.com" 
 
   # Academic websites
   academia         : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : xiaoyang-li-953328262  # Username
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
