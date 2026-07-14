@@ -17,7 +17,7 @@ II. Organisational Structure
 
 1.	Advisors: Leading poets and scholars from China, Europe, and beyond, whose expertise and influence will guide the association’s academic and strategic development.
 2.	Presidents: Prof. Ou Hong (Sun Yat-sen University) and Prof. Neil Roberts (University of Sheffield), serving as co-presidents and providing leadership and vision for CEAP’s initiatives.
-3.	Executive Director (Secretary-General): Prof. Li Zhimin, responsible for the CEAP’s recruitment of directors and general management of daily operations. (Guangzhou University, contact: ceap_general@vip.163.com; anyone who wants to be a director of CEAP is welcome to send an application message to this email address with a detailed CV in either Chinese or English).
+3.	Executive Director (Secretary-General): Prof. Li Zhimin, responsible for the CEAP’s recruitment of directors and general management of daily operations. (Guangzhou University, contact: ceap_general@163.com; anyone who wants to be a director of CEAP is welcome to send an application message to this email address with a detailed CV in either Chinese or English).
 4.	Board of Directors: Poets and poetry scholars with organisational and professional experience in terms of associational policies and projects. A director is encouraged to host events or other projects sponsored by CEAP. 
 5.	Members: Open to all who share CEAP’s mission, including students, early-career researchers, and established scholars. Members will have opportunities for collaboration and access to CEAP’s future events.
 
