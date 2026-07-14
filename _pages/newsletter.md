@@ -9,12 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-## [CEAP Introduction]({{ '/blurb/' | relative_url }})
+## [1. CEAP Introduction]({{ '/blurb/' | relative_url }})
 
-## CEAP Meetings  
+## 2. CEAP Meetings
 
-## CEAP Conferences 
+### The First Meeting
 
-## CEAP Reading Events
+#### Program of the first meeting
 
-## CEAP Members
+#### Report of the first meeting
+
+## 3. CEAP Conferences 
+
+### The First Conference on Chinese and European Poetry and Poetics
+
+## 4. CEAP Reading Events
+
+### The First CEAP Reading Event
+
+## 5. CEAP Members
