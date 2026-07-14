@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## ![CEAP Introduction](/blurb/)
+## [CEAP Introduction](/blurb/)
 
 ## CEAP Meetings  
 
