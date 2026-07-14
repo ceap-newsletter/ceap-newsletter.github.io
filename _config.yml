@@ -25,10 +25,14 @@ author:
   avatar           : "profile.jpg"
   name             : "LI Zhimin"
   pronouns         : # example: "she/her"  
-  bio              : "\"Guangzhou Scholar\" Distinguished Professor of English\nPresident of Guangdong Society of Foreign Literature\nSecretary General / Executive director of CEAP\nCo-author of <it>China Being Led and Leading: A Literary and Cultural Interpretation (Palgrave MacMillan)<\it>"
+  bio              : >-
+    "Guangzhou Scholar" Distinguished Professor of English<br/>
+    President of Guangdong Society of Foreign Literature<br/>
+    Secretary General / Executive director of CEAP<br/>
+    Co-author of <i>China Being Led and Leading: A Literary and Cultural Interpretation</i> (Palgrave MacMillan)
   location         : "Guangzhou"
   employer         : "Guangzhou University"
-  uri              : # "https://xli562.github.io"
+  uri              : # "https://ceap-newsletter.github.io"
   email            : "washingtonlzm@sina.com" 
 
   # Academic websites
@@ -47,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "xli562"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
