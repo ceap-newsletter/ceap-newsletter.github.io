@@ -2,7 +2,7 @@
 layout: archive
 title: CEAP Blurb
 permalink: /blurb/
-author_profile: true
+author_profile: false
 redirect_from:
   - /blurb
 ---
