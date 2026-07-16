@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 The Chinese European Association for Poetry and Poetics (CEAP) is a new international organisation committed to the study of poetry and poetics across the national, cultural, and disciplinary boundaries. It especially places the research and translation of poetic works in a broader global context. In partnership with the Chinese American Association for Poetry and Poetics (CAAP), CEAP aims to build an influential network that bridges Chinese and European poetic traditions and promote transcultural exchange and dialogue.
+
+I. Vision and Goals
+
 CEAP is dedicated to: promoting transcultural research in poetry and poetics; bridging Chinese and European poetic traditions while placing them within a global framework; supporting innovative studies that connect poetry to other art forms, cultural practices, and academic disciplines; building an inclusive, global community of scholars and poets to encourage a wide range of perspectives in poetry studies.
 CEAP welcomes all poets, scholars, and students to join in shaping its journey and contributing to its mission. Together, we aspire to create a robust community where poetry and poetics thrive as tools for understanding, collaboration, and innovation.
 
