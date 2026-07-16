@@ -37,5 +37,3 @@ For inquiries or membership applications, please contact CEAP through its region
 
 
                                            January 11, 2025
-
-Note: This version of prospectus will be revised upon advice from people around the world. 

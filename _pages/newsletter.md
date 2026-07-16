@@ -34,6 +34,6 @@ redirect_from:
 - [Photo of the audience]({% link /files/4-audience.HEIC %})
 - [Photo of Harriet Rose]({% link /files/5-Harriet.HEIC %})
 - [Photo of Jean Gooder]({% link /files/6-Jean.HEIC %})
-- Chorus: “Auld Lang Syne” (led by Xiaoyang Henry Li)
+- [Chorus: “Auld Lang Syne” (led by Xiaoyang Henry Li)](https://www.bilibili.com/video/BV1m2K36wEXj)
 
 ## 5. CEAP Members
