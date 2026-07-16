@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "CEAP Newsletter"
-author_profile: true
+title: "CEAP Blurb"
+author_profile: false
 redirect_from: 
   - /about/
   - /home/

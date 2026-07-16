@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [1. CEAP Introduction]({{ '/blurb/' | relative_url }})
+## [1. CEAP Introduction]({{ '/about/' | relative_url }})
 
 ## 2. CEAP Meetings
 
@@ -36,4 +36,4 @@ redirect_from:
 - [Photo of Jean Gooder]({% link /files/6-Jean.HEIC %})
 - [Chorus: “Auld Lang Syne” (led by Xiaoyang Henry Li)](https://www.bilibili.com/video/BV1m2K36wEXj)
 
-## 5. CEAP Members
+## 5. News from members
