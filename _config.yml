@@ -25,11 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "LI Zhimin"
   pronouns         : # example: "she/her"  
-  bio              : >-
-    "Guangzhou Scholar" Distinguished Professor of English<br/>
-    President of Guangdong Society of Foreign Literature<br/>
-    Secretary General / Executive director of CEAP<br/>
-    Co-author of <i>China Being Led and Leading: A Literary and Cultural Interpretation</i> (Palgrave MacMillan)
+  bio              : "Secretary General / Executive director of CEAP"
   location         : "Guangzhou"
   employer         : "Guangzhou University"
   uri              : # "https://ceap-newsletter.github.io"

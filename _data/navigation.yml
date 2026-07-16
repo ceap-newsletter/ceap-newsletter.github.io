@@ -25,6 +25,9 @@ main:
     
   - title: "CEAP Newsletter"
     url: /newsletter/
+  
+  - title: "Members"
+    url: /members/
 
   # - title: "Guide"
   #   url: /markdown/
